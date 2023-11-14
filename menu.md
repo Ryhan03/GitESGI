@@ -18,3 +18,4 @@
 - **Branch: `feature-plats-principaux`
 - **Branch: `feature-vegan-options`
 - **Branch: `feature-menu-sans-gluten`
+- **Branch: `feature-menu-saisonnier`
