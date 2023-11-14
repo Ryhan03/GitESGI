@@ -15,3 +15,4 @@
     - [Salade Quinoa et Légumes](recettes/salade_quinoa_legumes.md)
 - **Branch: `hotfix-desserts-froids`
 - **Branch: `hotfix-desserts-froids`
+- **Branch: `feature-plats-principaux`
