@@ -28,3 +28,4 @@
 - **Branch: `feature-apéritifs`
 - **Branch: `experiment-novel-cuisine`
 - **Branch: `bugfix-plats-vegan`
+- **Branch: `tapas-accompagnements`
