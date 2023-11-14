@@ -20,3 +20,4 @@
 - **Branch: `feature-menu-sans-gluten`
 - **Branch: `feature-menu-saisonnier`
 - **Branch: `feature-menu-enfant`
+- **Branch: `feature-fruits-de-mer`
