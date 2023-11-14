@@ -23,3 +23,4 @@
 - **Branch: `feature-fruits-de-mer`
 - **Branch: `feature-desserts-chauds`
 - **Branch: `feature-cocktail`
+- **Branch: `feature-boissons-chaudes`
