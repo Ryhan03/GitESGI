@@ -22,3 +22,4 @@
 - **Branch: `feature-menu-enfant`
 - **Branch: `feature-fruits-de-mer`
 - **Branch: `feature-desserts-chauds`
+- **Branch: `feature-cocktail`
