@@ -26,3 +26,4 @@
 - **Branch: `feature-boissons-chaudes`
 - **Branch: `feature-boissons-froides`
 - **Branch: `feature-apéritifs`
+- **Branch: `experiment-novel-cuisine`
