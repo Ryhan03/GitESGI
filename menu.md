@@ -16,3 +16,4 @@
 - **Branch: `hotfix-desserts-froids`
 - **Branch: `hotfix-desserts-froids`
 - **Branch: `feature-plats-principaux`
+- **Branch: `feature-vegan-options`
