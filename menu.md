@@ -19,3 +19,4 @@
 - **Branch: `feature-vegan-options`
 - **Branch: `feature-menu-sans-gluten`
 - **Branch: `feature-menu-saisonnier`
+- **Branch: `feature-menu-enfant`
