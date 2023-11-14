@@ -25,3 +25,4 @@
 - **Branch: `feature-cocktail`
 - **Branch: `feature-boissons-chaudes`
 - **Branch: `feature-boissons-froides`
+- **Branch: `feature-apéritifs`
