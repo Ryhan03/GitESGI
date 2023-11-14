@@ -24,3 +24,4 @@
 - **Branch: `feature-desserts-chauds`
 - **Branch: `feature-cocktail`
 - **Branch: `feature-boissons-chaudes`
+- **Branch: `feature-boissons-froides`
